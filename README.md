@@ -3,14 +3,16 @@
 <p align="center">
   <b>⚡ Powerful • Simple • Clean • Termux Linux Manager ⚡</b><br>
   <i>Install & manage multiple Linux distros in Termux with one tool</i>
-</p>---
+</p>
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-Bash-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Author-Cyber%20DarkNay-red?style=for-the-badge">
-</p>---
+</p>
+---
 
 ## 🔥 About
 
