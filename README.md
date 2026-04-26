@@ -47,11 +47,11 @@ RockyLinux  Void Linux
 pkg update && pkg upgrade -y
 pkg install git -y
 
-git clone https://github.com/username/darknay-distro
-cd darknay-distro
+git clone https://github.com/Cyber-DarkNay/multi_distro.git
+cd multi_distro
 
 chmod +x darknay-distro.sh
-./darknay-distro.sh
+bash distro.sh
 
 ---
 
