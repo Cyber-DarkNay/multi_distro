@@ -1,4 +1,4 @@
-🚀 CYBER DARKNAY MULTI DISTRO TOOL
+## CYBER DARKNAY MULTI DISTRO TOOL
 
 <p align="center">
   <b>⚡ Powerful • Simple • Clean • Termux Linux Manager ⚡</b><br>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Author-Cyber%20DarkNay-red?style=for-the-badge">
 </p>---
 
-🔥 About
+## 🔥 About
 
 Cyber DarkNay Multi Distro Tool adalah tools berbasis bash yang dirancang untuk mempermudah install dan mengelola berbagai distro Linux langsung di Termux.
 
@@ -21,8 +21,8 @@ Semua cukup lewat menu interaktif.
 
 ---
 
-⚡ Features
-
+## ⚡ Features
+```
 - 🧠 Simple & clean interface
 - 📦 Install berbagai distro Linux
 - 🚀 Login distro cepat
@@ -30,20 +30,20 @@ Semua cukup lewat menu interaktif.
 - ❌ Remove distro dengan mudah
 - 🎨 CLI UI keren & ringan
 - 🔒 Stabil & anti error (anti blank screen)
-
+```
 ---
 
-🐧 Supported Distro
-
+## 🐧 Supported Distro
+```
 Ubuntu      Debian      Arch Linux
 Alpine      Fedora      Manjaro
 OpenSUSE    Deepin      AlmaLinux
 RockyLinux  Void Linux
-
+```
 ---
 
-📥 Installation
-
+### 📥 Installation
+```
 pkg update && pkg upgrade -y
 pkg install git -y
 
@@ -52,11 +52,11 @@ cd multi_distro
 
 chmod +x darknay-distro.sh
 bash distro.sh
-
+```
 ---
 
-▶️ Usage
-
+## ▶️ Usage
+```
 Jalankan tools:
 
 ./darknay-distro.sh
@@ -69,10 +69,10 @@ Menu utama:
 [4] Hapus Distro
 [5] Info System
 [0] Exit
-
+```
 ---
 
-🖥️ Requirements
+## 🖥️ Requirements
 
 - 📱 Termux (Android)
 - 🌐 Internet stabil
@@ -80,7 +80,7 @@ Menu utama:
 
 ---
 
-🎯 Use Case
+## 🎯 Use Case
 
 - Belajar Linux di HP
 - Development environment (Python, Node, dll)
@@ -89,7 +89,7 @@ Menu utama:
 
 ---
 
-💡 Tips
+## 💡 Tips
 
 - Gunakan Alpine / Debian untuk device low-end
 - Hindari install GUI kalau RAM kecil
@@ -97,14 +97,14 @@ Menu utama:
 
 ---
 
-👤 Author
+## 👤 Author
 
 <p align="center">
   <b>Cyber DarkNay</b><br>
   <i>Killer Sec Team</i>
 </p>---
 
-⭐ Support
+## ⭐ Support
 
 Kalau kamu suka tools ini:
 
@@ -114,14 +114,14 @@ Kalau kamu suka tools ini:
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 Tools ini dibuat untuk tujuan edukasi & penggunaan legal.
 Segala penyalahgunaan bukan tanggung jawab author.
 
 ---
 
-🚀 Future Plan
+## 🚀 Future Plan
 
 - 🖥️ GUI Desktop (VNC)
 - 🤖 Auto install dev tools
@@ -129,16 +129,16 @@ Segala penyalahgunaan bukan tanggung jawab author.
 - 📦 Multi distro auto setup
 
 ---
-
+```
 <p align="center">
   🔥 <b>Stay learning. Stay legal. Stay powerful.</b> 🔥
 </p>- ❌ Hapus distro dengan cepat
 - 🧠 Interface simple & user-friendly
 - 🎨 Tampilan keren (CLI UI)
-
+```
 ---
 
-🖥️ Supported Distro
+## 🖥️ Supported Distro
 
 - Ubuntu
 - Debian
@@ -203,15 +203,14 @@ Pilih menu sesuai kebutuhan:
 
 ---
 
-👤 Author
+## 👤 Author
 
 Cyber DarkNay
-🔗 GitHub: https://github.com/username
-📢 Team: Killer Sec Team
+🔗 GitHub: https://github.com/Cyber-DarkNay
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 Kalau kamu suka tools ini:
 
@@ -221,15 +220,15 @@ Kalau kamu suka tools ini:
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 Tools ini dibuat untuk tujuan edukasi dan penggunaan legal.
 Segala penyalahgunaan bukan tanggung jawab author.
 
 ---
 
-🔥 Screenshot
-
+## 🔥 Screenshot
+```
 CYBER DARKNAY MULTI DISTRO TOOL
 ================================
 [1] Install Distro
@@ -237,10 +236,10 @@ CYBER DARKNAY MULTI DISTRO TOOL
 [3] List Distro
 [4] Hapus Distro
 [0] Exit
-
+```
 ---
 
-🚀 Future Update
+## 🚀 Future Update
 
 - GUI Desktop (VNC)
 - Auto install dev tools
