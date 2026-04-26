@@ -129,10 +129,3 @@ Segala penyalahgunaan bukan tanggung jawab author.
 - 📦 Multi distro auto setup
 
 ---
-
-<p align="center">
-  🔥 <b>Stay learning. Stay legal. Stay powerful.</b> 🔥
-</p>- ❌ Hapus distro dengan cepat
-- 🧠 Interface simple & user-friendly
-- 🎨 Tampilan keren (CLI UI)
-
